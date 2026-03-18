@@ -1,6 +1,6 @@
 # Ankit Khan - DevOps Engineer (Fresher)
 
-B.Tech CSE Graduate | Gurugram, India |
+B.Tech CSE Graduate | Gurugram, India 
 
 8 months internship experience at Netmax Technologies
 
